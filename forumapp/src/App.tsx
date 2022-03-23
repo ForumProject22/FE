@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
 import { Route, Routes } from "react-router-dom";
-import "./App.css";
 import SecureRoute from "./components/api/SecureRoute";
 import Footer from "./components/footer/Footer";
 import AuthNav from "./components/nav/AuthNav";

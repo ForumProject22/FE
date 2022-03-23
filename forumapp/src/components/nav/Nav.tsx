@@ -5,7 +5,7 @@ const Nav = () => {
 
   return (
     <header>
-      Welcome to Community Forum! Please Log In!!!
+      Welcome to Community Forum!
       <nav>
             <Link to="/signin">Sign In</Link>
             <Link to="/signup">Sign Up</Link>

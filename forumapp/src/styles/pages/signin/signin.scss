@@ -1,0 +1,9 @@
+#signin-container {
+    margin: 0 auto;
+    width: 25%;
+    padding: 16px;
+    #signin-form {
+        display: flex;
+        flex-direction: column;
+    }
+}

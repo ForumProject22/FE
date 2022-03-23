@@ -10,7 +10,7 @@ const AuthNav = () => {
 
   return (
     <header>
-      Welcome to Community Forum! Please Log Out!!
+      Welcome to Community Forum!
       <nav>
             <Link to="/" onClick={onClick}>
               Sign Out

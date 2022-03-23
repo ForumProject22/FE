@@ -1,0 +1,11 @@
+@import './reset.scss';
+
+//import app
+@import './app.scss';
+
+//import pages
+@import './pages/signin/signin.scss';
+
+//import components
+@import './components/nav/nav.scss';
+@import './components/footer/footer.scss';
