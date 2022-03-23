@@ -32,7 +32,7 @@ export const LogIn = () => {
         window.localStorage.setItem("token", res.data.token);
         setData(intState)
         setUserData(res.data)
-        nav('/profile')
+        nav('/auth/profile')
         window.location.reload();
       })
       .catch((error) => {
