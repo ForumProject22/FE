@@ -1,7 +1,7 @@
 import React from 'react';
 
 function Landing() {
-  return <div>Welcome to the Community Forum</div>;
+  return <div>HERE IS WHERE THE FORUM WILL BE</div>;
 }
 
 export default Landing;
